@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Toast1111
-- 👀 I’m interested in ... toast
-- 🌱 I’m currently learning ... unity 
-- 💞️ I’m looking to collaborate on ... nothing
+I am a young man with a passion for AI and a love for the world of gaming. From a young age, I have always been fascinated by the way games work and how they can be used to create immersive and exciting experiences for players. As I grew older, this passion led me to explore game development and AI as a hobby, and I quickly found that I had a natural talent for it.
+
 - 📫 How to reach me ... you will not
 
 <!---
